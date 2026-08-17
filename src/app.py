@@ -51,17 +51,53 @@ activities = {
         "max_participants": 15,
         "participants": ["ava@mergington.edu", "mia@mergington.edu"]
     },
+    "Volleyball Team": {
+        "description": "Build teamwork and improve serving, passing, and defense skills",
+        "schedule": "Mondays and Wednesdays, 4:00 PM - 5:30 PM",
+        "max_participants": 14,
+        "participants": []
+    },
+    "Track and Field": {
+        "description": "Train for running, jumping, and relay events throughout the season",
+        "schedule": "Tuesdays and Fridays, 3:30 PM - 5:00 PM",
+        "max_participants": 20,
+        "participants": []
+    },
     "Art Club": {
         "description": "Explore drawing, painting, and creative projects",
         "schedule": "Mondays, 3:30 PM - 5:00 PM",
         "max_participants": 15,
         "participants": ["ella@mergington.edu", "grace@mergington.edu"]
     },
+    "Photography Club": {
+        "description": "Learn composition, editing, and storytelling through photography",
+        "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 12,
+        "participants": []
+    },
     "Drama Club": {
         "description": "Act, direct, and produce school theater performances",
         "schedule": "Thursdays, 3:30 PM - 5:30 PM",
         "max_participants": 20,
         "participants": ["lucas@mergington.edu", "charlotte@mergington.edu"]
+    },
+    "Music Ensemble": {
+        "description": "Practice ensemble performance and grow your musical skills",
+        "schedule": "Fridays, 3:30 PM - 5:00 PM",
+        "max_participants": 18,
+        "participants": []
+    },
+    "Math Olympiad": {
+        "description": "Solve advanced problems and compete in math contests",
+        "schedule": "Tuesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 16,
+        "participants": []
+    },
+    "Debate Team": {
+        "description": "Develop argumentation, speaking, and critical thinking skills",
+        "schedule": "Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 16,
+        "participants": []
     }
 }
 
